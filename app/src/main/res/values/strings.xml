@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="pass">Password</string>
+    <string name="dob">Date of Birth</string>
+    <string name="submit">Submit Form</string>
+    <string name="signIn">Sign In</string>
+    <string name="register">Register</string>
+    <string name="submit2">Submit Form</string>
+
+</resources>
